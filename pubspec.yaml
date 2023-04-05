@@ -1,0 +1,14 @@
+name: evertz_quartz_controller
+description: A controller implementation of Evertz Quartz protocol.
+version: 1.0.0
+repository: https://github.com/espresso3389/evertz_quartz_controller
+
+environment:
+  sdk: ^3.0.0-399.0.dev
+
+dependencies:
+  synchronized: ^3.0.1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
